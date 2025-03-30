@@ -1,0 +1,6 @@
+4
+4
+[3]
+Adrian
+Domagaola
+[3, 4, 2, 6]
