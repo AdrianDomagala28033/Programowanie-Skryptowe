@@ -1,4 +1,4 @@
-with open("oceny.txt", "a") as p1:
+with open("../oceny.txt", "a") as p1:
     tab = []
     for i in range(5):
         ocena = input("Podaj oceny: ")
